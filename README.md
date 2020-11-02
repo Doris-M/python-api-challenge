@@ -61,4 +61,4 @@ Using Google Places API to find the first hotel for each city located within 500
 Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 #### Weather heatmap
-### https://WeatherPy/Images/weather_heatmap.png
+### https://github.com/Doris-M/python-api-challenge/blob/main/WeatherPy/Images/weather_pin.png?raw=true
